@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "port": 5001,
+  "mongo_uri": "mongodb://localhost:27017",
+  "database": "airbnb1",
+  "vizinhos": [
+    {
+      "id": 2,
+      "port": 5002
+    },
+    {
+      "id": 3,
+      "port": 5003
+    }
+  ]
+}

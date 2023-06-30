@@ -1,0 +1,5 @@
+start cmd /K python "server1\server.py"
+start cmd /K python "server2\server.py"
+start cmd /K python "server3\server.py"
+start cmd /K python "server4\server.py"
+start cmd /K python "server5\server.py"
